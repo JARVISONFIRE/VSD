@@ -12,10 +12,12 @@ The labs are organized into task-specific subdirectories:
 
 ---
 
-## Task 1: Environment Setup & Reference Bring-Up
+## Task 1: Environment Setup
+
 **Objective:** Port the RISC-V development environment to a native Arch Linux system and verify the VSDSquadron FPGA hardware.
 
-### Key Highlights:
+### Key Highlights
+
 * **Native Toolchain:** Successfully configured `riscv64-elf-gcc` and supporting utilities on Arch Linux.
 * **Hardware Verification:** Compiled and flashed a RISC-V SoC bitstream FPGA.
 * **Firmware Execution:** Verified the RISC-V core functionality via RGB LED control.
@@ -26,9 +28,9 @@ Detailed documentation, screenshots, and architectural answers can be found in t
 ---
 
 ## Hardware Used
+
 * **Board:** VSDSquadron FPGA Mini
 * **Connectivity:** USB-to-Serial (Programming/UART)
 * **Workstation:** Native Arch Linux / GitHub Codespaces
 
 ---
-
