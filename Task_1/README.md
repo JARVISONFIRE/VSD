@@ -44,6 +44,13 @@ The Codespace is setup and all the instructions in the repo README is followed w
 **factorial.c using riscv64-elf-gcc**
 ![factorial using riscv64-elf-gcc](Images/factorial.png)
 
+### Riscv logo compiling and printing
+
+*On Github Codespaces*
+![githubcodespace](Images/logo_codespace.png)
+*On Local Linux System*
+![localarchlinux](Images/logo_local.png)
+
 ### Hardware Flash
 
 The following output confirms the successful flashing of the bitstream and the execution of the firmware (indicated by the White RGB LED state on the board).In order for Makefile to compile I had to make some changes to Makefile and print.c in Firmware folder.
@@ -57,10 +64,3 @@ The following output confirms the successful flashing of the bitstream and the e
 **make terminal output**
 This command was working and the terminal was waiting for reply from fpga and somehow I was not getting any.
 ![make_terminal](Images/make_terminal.png)
-
-#### Riscv logo compiling and printing
-
-*On Github Codespaces*
-![githubcodespace](Images/logo_codespace.png)
-*On Local Arch Linux*
-![localarchlinux](Images/logo_local.png)
