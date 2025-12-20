@@ -22,7 +22,7 @@ void print_banner() {
     printf("*                                                          *\n");
     printf("*      V S D S Q U A D R O N  F P G A   M I N I            *\n");
     printf("*                                                          *\n");
-    printf("*B R I N G S   R I S C - V   T O   V S D  C L A S S R O O M*\n");
+    printf("*                        Harry Jain                        *\n");
     printf("*                                                          *\n");
     printf("************************************************************\n\n");
 }

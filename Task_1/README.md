@@ -57,3 +57,10 @@ The following output confirms the successful flashing of the bitstream and the e
 **make terminal output**
 This command was working and the terminal was waiting for reply from fpga and somehow I was not getting any.
 ![make_terminal](Images/make_terminal.png)
+
+#### Riscv logo compiling and printing
+
+*On Github Codespaces*
+![githubcodespace](Images/logo_codespace.png)
+*On Local Arch Linux*
+![localarchlinux](Images/logo_local.png)
